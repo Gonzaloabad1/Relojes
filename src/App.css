@@ -1,0 +1,15 @@
+:root {
+  --secondary: #f7ff02;
+  font-family: "Poppins", sans-serif;
+}
+
+* {
+  margin: 16;
+  padding: 0;
+  text-align: center;
+}
+
+body {
+background-image: url(./assets/Captura.PNG);
+  color: var(--secondary);
+}
